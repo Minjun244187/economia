@@ -1,4 +1,4 @@
-# Rodmania (Economia)
+# Economia
 
 ## A 2D Economics Simulation RPG Built From Scratch in Java
 
