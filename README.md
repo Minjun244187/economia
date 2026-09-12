@@ -1,3 +1,4 @@
+<img width="47" height="48" alt="image" src="https://github.com/user-attachments/assets/c7f03954-33c6-43bd-bfe2-0e6e0b532261" />
 # Economia
 
 ## A 2D Economics Simulation RPG Built From Scratch in Java
