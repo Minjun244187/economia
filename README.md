@@ -91,4 +91,3 @@ I went through countless rounds of trial and error, debugging, and revisions, an
 I was able to stay up for days and nights working on the game because I genuinely enjoyed seeing my ideas come to life. The project became much bigger than I expected and was difficult to complete on my own, but I learned how much I could accomplish when I was genuinely excited about what I was building. My Economics and Java teachers were very positive about the project, and my Java teacher even encouraged all of his students to try playing it.
 
 
-Balancing the simulation so that debt, taxes, and interest rates felt meaningful without making the game unplayable took a lot of iteration. I learned that making a system "technically correct" is very different from making it fun and understandable to someone playing it for the first time.
