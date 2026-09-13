@@ -10,7 +10,7 @@
 <img src="img/mjpng9.jpg" width="190">
 <img src="img/mjpng1.jpg" width="190">
 </p>
-Economia is a Pokemon-style 2D game where the player experiences an economy through everyday decisions. You walk around a town, get a job, take out loans, pay taxes, and watch the national economy react to your decisions and random world events — all while managing your health, satisfaction, and intelligence stats.
+Economia is a Pokemon-style 2D game where the player experiences an economy through everyday decisions. You walk around a town, get a job, take out loans, pay taxes, and watch the national economy react to your decisions and random world events - all while managing your health, satisfaction, and intelligence stats.
 
 ## Why I Started This Project
 
