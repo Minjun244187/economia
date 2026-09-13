@@ -3,6 +3,8 @@
 
 ## A 2D Economics Simulation RPG Built From Scratch in Java
 
+
+
 Economia is a Pokemon-style 2D game where the player experiences an economy through everyday decisions. You walk around a town, get a job, take out loans, pay taxes, and watch the national economy react to your decisions and random world events — all while managing your health, satisfaction, and intelligence stats.
 
 ## Why I Started This Project
@@ -10,6 +12,8 @@ Economia is a Pokemon-style 2D game where the player experiences an economy thro
 In 10th grade, I took AP Java and AP Micro/Macroeconomics. I understood the economic concepts we studied and became interested in bringing them to life in a game. At the same time, I wanted to build something much bigger than the class assignments and push my Java and object-oriented programming skills further.
 
 So I combined the two. I built a simulation game where GDP growth, interest rates, taxation, government spending, and inflation affect the player’s choices and the economy. The player has to manage these changes while staying healthy, happy, and out of debt.
+
+My Java teachers were impressed enough to strongly encourage their classes to try the game, and my Economics teacher also responded very positively to the project.
 
 ## How It Works
 
@@ -87,8 +91,5 @@ The source code is organized into several main parts:
 
 Working through the entire process of making a game gave me a glimpse of how a real game development project comes together. I planned the game scenario and logic, found and organized sound and graphic resources, created and revised characters, and redesigned the game map many times. I even made the main character look like my Economics teacher, which really touched him.
 
-I went through countless rounds of trial and error, debugging, and revisions. The biggest challenge came at the end, when I had to create an installer that would let others install and play the game, not just run it on my computer. Solving those problems took persistence, but I kept going because I genuinely enjoyed seeing my ideas come to life.
-
-I was able to stay up for days and nights working on the game because I genuinely enjoyed seeing my ideas come to life. The project became much bigger than I expected and was difficult to complete on my own, but I learned how much I could accomplish when I was genuinely excited about what I was building. My Economics and Java teachers were very positive about the project, and my Java teacher even encouraged all of his students to try playing it.
-
+I went through countless rounds of trial and error, debugging, and revisions. The biggest challenge came at the end, when I had to create an MSI installer so others could install and play the game on their own computers. I kept debugging and revising until I got it working. Seeing my teachers and friends actually play the game and give me positive feedback made all the work worthwhile.
 
