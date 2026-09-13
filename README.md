@@ -3,7 +3,6 @@
 
 ## A 2D Economics Simulation RPG Built From Scratch in Java
 <p>
-<img src="img/mjpng10.jpg" width="180">
 <img src="img/mjpng6.jpg" width="180">
 <img src="img/mjpng7.jpg" width="180">
 <img src="img/mjpng4.jpg" width="180">
